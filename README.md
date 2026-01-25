@@ -11,7 +11,7 @@ I enjoy building fun projects that solve problems and learning new tech.
 
 ## Projects
 
-- [hc!OS](https://github.com/HimC/hcOS) – Web-based desktop project named hc!OS  
+- [hc!OS](https://github.com/HimC29/hcOS) – Web-based desktop project named hc!OS  
   *Expanded my JavaScript knowledge with new concepts and ES6 modules, while refining styling skills.*
 
 - [URL Shortener](https://github.com/HimC29/URL-Shortener) – A full stack website that shortens URLs  
