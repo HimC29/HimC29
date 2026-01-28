@@ -1,13 +1,17 @@
 # Hi, I'm Him C. <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I'm a programmer from Malaysia that focuses on Python, Web Development (Full Stack, with Database), and Arduino.  
-I daily drive Linux (Fedora KDE mainly) and enjoy building fun projects that solve problems and learning new tech.
+I'm a programmer from Malaysia, focused on Python, Web Development (Full Stack with Databases), and Arduino.  
+I use Linux daily (mainly Fedora KDE) and love building fun projects that solve problems and exploring new tech.
+
+Check out my projects and get in touch via GitHub or Gmail, and watch live demos exclusively on TikTok!  
+<a href="mailto:himc.29z@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+<a href="https://www.tiktok.com/@HimC29" title="TikTok"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30" align="center"/></a>
 
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,react,bootstrap,expressjs,nodejs,mongodb,python,arduino,md,git,github,vscode,postman,bash&perline=9)](#)
 
-**Other skills:**  
+**Other skills:**
 - IndexedDB (local browser storage)  
 - Hosting on Render  
 - Python libraries: Matplotlib, NumPy, Pandas, Scikit-learn, Turtle  
@@ -16,17 +20,11 @@ I daily drive Linux (Fedora KDE mainly) and enjoy building fun projects that sol
 
 ## Projects
 
-- [hc!OS](https://github.com/HimC29/hcOS) – Web-based desktop project named hc!OS  
-  *Expanded my JavaScript knowledge with new concepts and ES6 modules, while refining styling skills.*
+- [hc!OS](https://github.com/HimC29/hcOS) – Web-based desktop environment  
+  *Expanded my JavaScript and ES6 knowledge while refining styling and UI skills.*
 
-- [URL Shortener](https://github.com/HimC29/URL-Shortener) – A full stack website that shortens URLs  
-  *Taught me how to make and host a proper Express.js backend app with a MongoDB database on Render.*
+- [URL Shortener](https://github.com/HimC29/URL-Shortener) – Full stack URL shortening service  
+  *Built and hosted an Express.js + MongoDB app on Render.*
 
-- [Arduino Boombox](https://github.com/HimC29/Arduino-Boombox) – A boombox that plays music powered by an Arduino and DFPlayer  
-  *Gained experience with low-level programming, improved code efficiency, and worked with additional Arduino components.*
-
-
-Feel free to check out my work and reach out via GitHub or my Gmail!
-
-Gmail: 
-<a href="mailto:himc.29z@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+- [Arduino Boombox](https://github.com/HimC29/Arduino-Boombox) – Music-playing Arduino boombox  
+  *Improved low-level programming skills and learned to integrate multiple Arduino components.*
