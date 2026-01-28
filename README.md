@@ -5,7 +5,7 @@ I enjoy building fun projects that solve problems and learning new tech.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,mongodb,md,git,github,vscode,postman,bash&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,mongodb,python,arduino,md,git,github,vscode,postman,bash&perline=15)](#)
 
 ## Projects
 
