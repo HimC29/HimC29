@@ -1,13 +1,11 @@
 # Hi, I'm Him C. <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I'm a young programmer from Malaysia that focuses on Python, Web Development (Full Stack), and Arduino.  
+I'm a programmer from Malaysia that focuses on Python, Web Development (Full Stack), and Arduino.  
 I enjoy building fun projects that solve problems and learning new tech.
 
 ## Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS, C++ (Arduino)
-- **Frameworks / Libraries:** React, Node.js, Express.js 
-- **Other:** Git, GitHub, Full Stack Web Development  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,mongodb,md,git,github,vscode,postman,bash&perline=13)](#)
 
 ## Projects
 
@@ -21,7 +19,7 @@ I enjoy building fun projects that solve problems and learning new tech.
   *Gained experience with low-level programming, improved code efficiency, and worked with additional Arduino components.*
 
 
-Feel free to check out my work and reach out via GitHub or my gmail!
+Feel free to check out my work and reach out via GitHub or my Gmail!
 
 Gmail: 
 <a href="mailto:himc.29z@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
