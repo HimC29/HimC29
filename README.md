@@ -5,7 +5,14 @@ I daily drive Linux (Fedora KDE mainly) and enjoy building fun projects that sol
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,react,expressjs,nodejs,mongodb,python,arduino,md,git,github,vscode,postman,bash&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,react,bootstrap,expressjs,nodejs,mongodb,python,arduino,md,git,github,vscode,postman,bash&perline=9)](#)
+
+**Other skills:**  
+- IndexedDB (local browser storage)  
+- Hosting on Render  
+- Python libraries: Matplotlib, NumPy, Pandas, Scikit-learn, Turtle  
+- Arduino wiring & components  
+- Basic circuitry knowledge
 
 ## Projects
 
