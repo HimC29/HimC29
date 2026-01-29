@@ -4,8 +4,11 @@ I'm a programmer from Malaysia, focused on Python, Web Development (Full Stack w
 I use Linux daily (mainly Fedora KDE) and love building fun projects that solve problems and exploring new tech.
 
 Check out my projects and get in touch via GitHub or Gmail, and watch live demos exclusively on TikTok!  
+<div>
+<a href="https://github.com/HimC29" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" align="center"></a>
 <a href="mailto:himc.29z@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
 <a href="https://www.tiktok.com/@HimC29" title="TikTok"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30" align="center"/></a>
+</div>
 
 ## Skills
 
