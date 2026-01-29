@@ -28,3 +28,6 @@ Check out my projects and get in touch via GitHub or Gmail, and watch live demos
 
 - [Arduino Boombox](https://github.com/HimC29/Arduino-Boombox) – Music-playing Arduino boombox  
   *Improved low-level programming skills and learned to integrate multiple Arduino components.*
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
