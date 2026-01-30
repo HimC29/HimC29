@@ -17,7 +17,7 @@ Check out my projects and get in touch via GitHub or Gmail, and watch live demos
 **Other skills:**
 - IndexedDB (local browser storage)  
 - Hosting on Render  
-- Python libraries: Matplotlib, NumPy, Pandas, Scikit-learn, Turtle  
+- Python libraries: Matplotlib, NumPy, Pandas, Scikit-learn, Turtle, CV2  
 - Arduino wiring & components  
 - Basic circuitry knowledge
 
