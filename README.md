@@ -3,6 +3,9 @@
 I'm a self-taught, project-driven programmer from Malaysia, focused on Python, Web Development (Full Stack with Databases), Arduino, and more.  
 I use Linux daily (mainly Fedora KDE) and love building fun projects that solve problems and exploring new tech.
 
+🌐 Check out my **Portfolio Website**: [HimC29's Portfolio](https://HimC29.github.io/HimC29-Portfolio)  
+Explore my projects, live demos, and more!
+
 Check out my projects and get in touch via GitHub or Gmail! I also post live demos on TikTok.
 <div>
 <a href="https://github.com/HimC29" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" align="center"></a>
