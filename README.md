@@ -1,9 +1,9 @@
 # <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+Him+C.;Programmer+from+Malaysia;Linux+|+Web+|+Arduino+|+Python+|+%26+more" /><br><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" /></p>
 
-I'm a programmer from Malaysia, focused on Python, Web Development (Full Stack with Databases), and Arduino.  
+I'm a self-taught, project-driven programmer from Malaysia, focused on Python, Web Development (Full Stack with Databases), and Arduino.  
 I use Linux daily (mainly Fedora KDE) and love building fun projects that solve problems and exploring new tech.
 
-Check out my projects and get in touch via GitHub or Gmail, and watch live demos exclusively on TikTok!  
+Check out my projects and get in touch via GitHub or Gmail! I also post live demos on TikTok.
 <div>
 <a href="https://github.com/HimC29" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" align="center"></a>
 <a href="mailto:himc.29z@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
