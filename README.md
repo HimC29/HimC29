@@ -1,6 +1,6 @@
 # <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+Him+C.;Programmer+from+Malaysia;Linux+|+Web+|+Arduino+|+Python+|+%26+more" /><br><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" /></p>
 
-I'm a self-taught, project-driven programmer from Malaysia, focused on Python, Web Development (Full Stack with Databases), and Arduino.  
+I'm a self-taught, project-driven programmer from Malaysia, focused on Python, Web Development (Full Stack with Databases), Arduino, and more.  
 I use Linux daily (mainly Fedora KDE) and love building fun projects that solve problems and exploring new tech.
 
 Check out my projects and get in touch via GitHub or Gmail! I also post live demos on TikTok.
