@@ -15,7 +15,7 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,bootstrap,expressjs,nodejs,mongodb,python,arduino,git,vscode,bash&perline=6)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,bootstrap,expressjs,nodejs,mongodb,python,arduino,git,bash&perline=6)](#)
 
 **Other skills:**
 - IndexedDB (local browser storage)  
