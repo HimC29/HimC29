@@ -36,6 +36,9 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 
 - [Camera to ASCII Color](https://github.com/HimC29/camera-to-ascii-color) – Real-time webcam rendered as colored ASCII in the terminal  
   *Demonstrates image processing, terminal graphics, and performance-focused Python.*
+
+- [Arduino AI-Gemini](https://github.com/HimC29/arduino-ai) – Natural language Arduino controller with AI  
+  *Gemini 3 Flash AI translates conversational intent to data sent through the serial to manipulate hardware.*
   
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
