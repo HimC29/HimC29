@@ -39,6 +39,9 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 
 - [Arduino AI-Gemini](https://github.com/HimC29/arduino-ai) – Natural language Arduino controller with AI  
   *Gemini 3 Flash AI translates conversational intent to data sent through the serial to manipulate hardware.*
+
+- [Action Pad](https://github.com/HimC29/action-pad) – Programmable macro pad with layers and long-press support  
+  *Built a Python + Arduino system that maps physical buttons to hotkeys, commands, macros, and dynamic layers via serial communication.*
   
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
