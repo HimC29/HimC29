@@ -1,6 +1,6 @@
 # <p align="center">Hi, I am Him C. <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" /></p>
 
-I'm a self-taught programmer from Malaysia who daily drives Fedora Linux. I specialize in building full-stack web applications, Python utilities, Arduino projects, and more.
+I'm a self-taught programmer from Malaysia who daily drives Arch Linux. I specialize in building full-stack web applications, Python utilities, Arduino projects, and more.
 
 🌐 Check out my **Portfolio Website**: [My Portfolio](https://HimC29.github.io/HimC29-Portfolio)  
 Explore my projects, live demos, and more!
