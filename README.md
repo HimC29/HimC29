@@ -25,23 +25,23 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 
 ## Projects
 
-- [hc!OS](https://github.com/HimC29/hcOS) – Web-based desktop environment  
-  *Expanded my JavaScript and ES6 knowledge while refining styling and UI skills.*
+- [URL-Shortener](https://github.com/HimC29/URL-Shortener) – A simple web-based URL shortener built with HTML, CSS, and JavaScript.  
+  *Learned full stack development using JavaScript, managing data with MongoDB, and handling web app hosting.*
 
-- [URL Shortener](https://github.com/HimC29/URL-Shortener) – Full stack URL shortening service  
-  *Built and hosted an Express.js + MongoDB app on Render.*
+- [siseduorg-keynote-downloader](https://github.com/HimC29/siseduorg-keynote-downloader) – A lightweight Chrome extension to download any keynote on sisedu.org as a PDF with a single click.  
+  *Improved JavaScript skills and Chrome extension development, and practiced reverse engineering website structures to automate downloads.*
 
-- [Arduino Boombox](https://github.com/HimC29/Arduino-Boombox) – Music-playing Arduino boombox  
-  *Improved low-level programming skills and learned to integrate multiple Arduino components.*
+- [Shell-Motorsports-Collection-Web-Controller](https://github.com/HimC29/Shell-Motorsports-Collection-Web-Controller) – Custom web-based controller for Shell Motorsports Collection RC cars.  
+  *Learned to build lightweight web UIs, use Bluetooth for device communication, and reverse engineer the official app’s protocols to improve efficiency.*
 
-- [Camera to ASCII Color](https://github.com/HimC29/camera-to-ascii-color) – Real-time webcam rendered as colored ASCII in the terminal  
-  *Demonstrates image processing, terminal graphics, and performance-focused Python.*
+- [Bad-Apple-ESP32](https://github.com/HimC29/Bad-Apple-ESP32) – A tiny device that plays the classic Bad Apple!! music video with screen and audio.  
+  *Gained experience with low-level programming on ESP32, handling custom binary playback files stored on SD, and synchronizing audio-visual output.*
 
-- [Arduino AI-Gemini](https://github.com/HimC29/arduino-ai) – Natural language Arduino controller with AI  
-  *Gemini 3 Flash AI translates conversational intent to data sent through the serial to manipulate hardware.*
+- [Arduino-Boombox](https://github.com/HimC29/Arduino-Boombox) – Boombox made with Arduino, DFPlayer Mini, and speakers to play music.  
+  *Practiced low-level programming, integrating multiple Arduino components, and managing audio playback through microcontrollers.*
 
-- [Action Pad](https://github.com/HimC29/action-pad) – Programmable macro pad with layers and long-press support  
-  *Built a Python + Arduino system that maps physical buttons to hotkeys, commands, macros, and dynamic layers via serial communication.*
+- [action-pad](https://github.com/HimC29/action-pad) – Turned a simple Arduino keypad into a productivity tool executing commands, hotkeys, and macros.  
+  *Learned to combine Python and Arduino, handle serial communication, and create programmable hardware interfaces.*
   
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
