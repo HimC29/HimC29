@@ -37,8 +37,8 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 - [Bad-Apple-ESP32](https://github.com/HimC29/Bad-Apple-ESP32) – A tiny device that plays the classic Bad Apple!! music video with screen and audio.  
   *Gained experience with low-level programming on ESP32, handling custom binary playback files stored on SD, and synchronizing audio-visual output.*
 
-- [Arduino-Boombox](https://github.com/HimC29/Arduino-Boombox) – Boombox made with Arduino, DFPlayer Mini, and speakers to play music.  
-  *Practiced low-level programming, integrating multiple Arduino components, and managing audio playback through microcontrollers.*
+- [hc-soundbox](https://github.com/HimC29/hc-soundbox) – A custom-built microcontroller-based sound system for playing audio files through dedicated hardware controls.
+  *Gained experience in embedded systems, low-level audio handling, and integrating storage, playback modules, and physical interfaces.*
 
 - [action-pad](https://github.com/HimC29/action-pad) – Turned a simple Arduino keypad into a productivity tool executing commands, hotkeys, and macros.  
   *Learned to combine Python and Arduino, handle serial communication, and create programmable hardware interfaces.*
