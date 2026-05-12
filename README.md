@@ -31,6 +31,9 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 - [siseduorg-keynote-downloader](https://github.com/HimC29/siseduorg-keynote-downloader) – A lightweight Chrome extension to download any keynote on sisedu.org as a PDF with a single click.  
   *Improved JavaScript skills and Chrome extension development, and practiced reverse engineering website structures to automate downloads.*
 
+- [hc-yt-downloader](https://github.com/HimC29/hc-yt-downloader) - A lightweight web-based YouTube downloader built with Flask and yt-dlp for fast and simple media downloads. 
+  *Improved backend development skills with Flask, integrated yt-dlp for media extraction and downloading, handled server-side FFmpeg processing for audio/video conversion, managed file processing workflows, and learned to design clean user-focused web interfaces.*
+
 - [Shell-Motorsports-Collection-Web-Controller](https://github.com/HimC29/Shell-Motorsports-Collection-Web-Controller) – Custom web-based controller for Shell Motorsports Collection RC cars.  
   *Learned to build lightweight web UIs, use Bluetooth for device communication, and reverse engineer the official app’s protocols to improve efficiency.*
 
