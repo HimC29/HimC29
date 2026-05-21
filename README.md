@@ -37,6 +37,9 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 - [Shell-Motorsports-Collection-Web-Controller](https://github.com/HimC29/Shell-Motorsports-Collection-Web-Controller) – Custom web-based controller for Shell Motorsports Collection RC cars.  
   *Learned to build lightweight web UIs, use Bluetooth for device communication, and reverse engineer the official app’s protocols to improve efficiency.*
 
+- [is-my-code-cursed](https://github.com/HimC29/is-my-code-cursed) – A theatrical AI-powered CLI tool that roasts code and rates its cursedness from 1–10.
+ *Learned Python CLI development, Gemini API integration, prompt engineering, configurable command-line workflows, and developer-focused UX design.*
+
 - [Bad-Apple-ESP32](https://github.com/HimC29/Bad-Apple-ESP32) – A tiny device that plays the classic Bad Apple!! music video with screen and audio.  
   *Gained experience with low-level programming on ESP32, handling custom binary playback files stored on SD, and synchronizing audio-visual output.*
 
