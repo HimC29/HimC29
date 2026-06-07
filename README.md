@@ -40,6 +40,9 @@ Check out my projects and get in touch via GitHub or Gmail! I also post live dem
 - [is-my-code-cursed](https://github.com/HimC29/is-my-code-cursed) – A theatrical AI-powered CLI tool that roasts code and rates its cursedness from 1–10.
  *Learned Python CLI development, Gemini API integration, prompt engineering, configurable command-line workflows, and developer-focused UX design.*
 
+- [IronOS-BadApple](https://github.com/HimC29/IronOS-BadApple) – A fork of IronOS that adds a Bad Apple music video player accessible from the soldering iron's settings menu.  
+  *Gained experience modifying embedded firmware, navigating a complex C++ codebase, working with custom font encoding systems, bitmap graphics on OLED displays, and cross-compiling for RISC-V targets on Arch Linux.*
+
 - [Bad-Apple-ESP32](https://github.com/HimC29/Bad-Apple-ESP32) – A tiny device that plays the classic Bad Apple!! music video with screen and audio.  
   *Gained experience with low-level programming on ESP32, handling custom binary playback files stored on SD, and synchronizing audio-visual output.*
 
