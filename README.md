@@ -16,7 +16,7 @@ Most of my projects start as experiments and slowly turn into something more com
 
 ## 🌟 Featured Project
 
-### 🎵 HC-SoundBox
+### 🎵 [HC-SoundBox](https://github.com/HimC29/hc-soundbox)
 
 A custom ESP32-based music player with an OLED screen, SD card storage, physical buttons, custom screensavers, and dedicated audio hardware. It started as a simple idea to play music and gradually turned into a fully usable standalone device.
 
