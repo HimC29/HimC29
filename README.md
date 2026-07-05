@@ -120,6 +120,12 @@ A Chrome extension that downloads keynotes from sisedu.org as PDFs with one clic
 
 ---
 
+<div align="center">
+
+**Made with ❤️ by [HimC29](https://github.com/HimC29)**
+
+</div>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
