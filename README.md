@@ -37,8 +37,6 @@ A custom ESP32-based music player with an OLED screen, SD card storage, physical
 <a href="https://www.tiktok.com/@HimC29"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </div>
 
-🌐 **Portfolio:** https://HimC29.github.io/HimC29-Portfolio
-
 ---
 
 ## 🛠️ Technologies & Tools
